@@ -3,10 +3,7 @@
 <!--
 **elvasthaisa/elvasthaisa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -14,3 +11,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Thaísa Elvas and here are some curiosities about me:
+
+- 💻 I’m currently studying Back-End Development at {Reprograma}
+- 📚 I’m currently learning JavaScript and I love Front-End as well.
+In fact, it's what I started studying :)
+- 🎵 I like playing guitar, singing and I dream about playing piano someday.
+- 😄 I'm a curious person, who loves to learn, to go to the beach, to make real connections and meet good people :)
+- And I love to code ❤️ 
