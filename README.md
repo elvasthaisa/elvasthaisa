@@ -14,9 +14,8 @@
 
 I'm Thaísa Elvas and here are some curiosities about me:
 
-- 💻 I’m currently studying Back-End Development at {Reprograma}
-- 📚 I’m currently learning JavaScript and I love Front-End as well.
-In fact, it's what I started studying :)
+- 💻 I’m a Jr Back-End Developer graduated at {Reprograma}
+- 📚 I’m currently studying Front-End as well. In fact, it's what I started studying :)
 - :mortar_board: I'm an undergraduate student of Chemistry Engineering at UFPE.
 - 🎵 I like playing guitar, singing and I dream about playing piano someday.
 - 😄 I'm a curious person, who loves to learn, to go to the beach, to make real connections and meet good people :)
