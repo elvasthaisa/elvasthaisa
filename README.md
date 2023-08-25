@@ -14,9 +14,9 @@
 
 I'm Thaísa Elvas and here are some curiosities about me:
 
-- 💻 I work at Inclusio as a QA Tester, but I also worked there as a Front-End developer for 7 months :)
-- 📚 I participated in a Back-End Developer bootcamp at {Reprograma}
-- :mortar_board: I graduated in 2022 as a Chemistry Engineer at UFPE.
-- 🎵 I like playing guitar, singing and I dream about playing piano someday.
-- 😄 I'm a curious person, who loves to learn, to go to the beach, to run, to do hikings, to make real connections and meet good people :)
+- 💻 In my last job I worked both as a QA and Front-end Developer :)
+- 📚 I participated in a Back-End Developer Bootcamp at {Reprograma}
+- :mortar_board: I graduated 2022 as a Chemistry Engineer at UFPE.
+- 🎵 I like playing the guitar, and singing and dream of playing the piano someday.
+- 😄 I'm a curious person, who loves to learn, go to the beach, run, go hiking, make real connections and meet good people :)
 - And I love to code ❤️ 
